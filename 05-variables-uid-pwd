@@ -5,3 +5,7 @@ echo "please  enter your username::" # text added here will be added to the vari
 read USERNAME
 
 echo "username entered: $USERNAME"
+echo "please  enter your password::" # text added here will be added to the variable
+
+read PASSWORD
+
