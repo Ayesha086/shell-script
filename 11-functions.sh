@@ -1,8 +1,6 @@
 #!/bin/bash
 
 USERID=$(id -u)
-$1=$?
-$2=Installing MySQL
 VALIDATE(){
 if [ $1 -ne 0 ]
  then
